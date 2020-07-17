@@ -1,16 +1,3 @@
----
-title: "README"
-author: "Camila Ospina Patino"
-date: "7/17/2020"
-output:
-  pdf_document: default
-  html_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Getting and Cleaning Data Project
 
 
