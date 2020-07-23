@@ -34,7 +34,7 @@ hist(data[, Global_active_power], main="Global Active Power",
 
 dev.off()
 ```
-[](https://github.com/CamilaOspinaPatino/datasciencecoursera/blob/master/Project_1/plot1.png)
+![](https://github.com/CamilaOspinaPatino/datasciencecoursera/blob/master/Project_1/plot1.png)
 
 ```R
 # Prevents Scientific Notation
